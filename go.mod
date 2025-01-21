@@ -1,4 +1,4 @@
-module github.com/jackyzha0/hugo-obsidian
+module github.com/agent-engineering/hugo-obsidian-graph
 
 go 1.16
 
